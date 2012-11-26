@@ -1,0 +1,17 @@
+data/annoying/__init__.py.i
+data/setup.py.i
+data/INSTALL.txt.i
+data/README.txt.i
+data/annoying/exceptions.py.i
+data/AUTHORS.txt.i
+data/LICENSE.txt.i
+data/.hgignore.i
+data/annoying/decorators.py.i
+data/annoying/templatetags/__init__.py.i
+data/annoying/functions.py.i
+data/annoying/middlewares.py.i
+data/annoying/fields.py.i
+data/annoying/utils.py.i
+data/annoying/templatetags/annoying.py.i
+data/annoying/templatetags/smart_if.py.i
+data/LICENCE.txt.i
